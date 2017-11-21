@@ -1,0 +1,44 @@
+Andromedae
+Apodis
+Aquilae
+Arietis
+Boötis
+Camelopardalis
+Canum Venaticorum
+Canis Minoris
+Carinae
+Centauri
+Ceti
+Circini
+Comae Berenices
+Coronae Borealis
+Crateris
+Cygni
+Doradus
+Equulei
+Fornacis
+Gruis
+Horologii
+Hydri
+Lacertae
+Leonis Minoris
+Librae
+Lyncis
+Mensae
+Monocerotis
+Normae
+Ophiuchi
+Pavonis
+Persei
+Pictoris
+Piscis Austrini
+Pyxidis
+Sagittae
+Scorpii
+Scuti
+Sextantis
+Telescopii
+Trianguli Australis
+Ursae Majoris
+Velorum
+Volantis

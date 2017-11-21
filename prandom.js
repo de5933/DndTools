@@ -22,6 +22,7 @@ class Random {
         return min + scale * this._rnd.random();
     }
     
+    // Compute the random number generated on the nth iteration of this seed
     randomItr (iteration) {
         var rnd = new MersenneTwister(this._seed);
         var val;

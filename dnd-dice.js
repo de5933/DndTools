@@ -40,10 +40,11 @@ class Gen {
     getCharacter() {
         return {
             'class': this.getFromList(list.classes),
-            background: this.getFromList(list.races),
-            race: this.getFromList(list.backgrounds),
+            background: this.getFromList(list.backgrounds),
+            race: this.getFromList(list.races),
             abilityScores: this.getAbilityScores(),
-            level: Math.floor(this._rnd.random(5,15))
+            level: Math.floor(this._rnd.random(5,15)),
+            gender: this._rnd.choose(['male, female'])
         };
     }
     
